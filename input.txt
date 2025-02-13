@@ -1,0 +1,120 @@
+To help you understand why prompt engineering
+is so important, I'm going to give you
+an initial example that shows where we tap into really complex
+capabilities of ChatGPT. But you can also do this with other large language models. The way we tap into these capabilities is
+by using a pattern, a pattern that we can use
+when we're writing prompts to get into these really
+interesting abilities of the large language models. Now, if you know these
+patterns and we'll talk about them in detail
+in this course, you'll be more effective
+in writing prompts. You'll be able to do things that other people won't be
+able to do as easily. Now, I'm going to
+give you an example. It's going to use something
+called the persona pattern. Now I'm not going to
+go into detail about the persona pattern
+at this point. But basically it's a pattern that we see all over the place. You'll see lots of
+different examples of this pattern out there on the Internet where
+people talk about using it to do lots and lots
+of different things. But the basic idea
+is you're going to ask the large language
+model in this case ChatGPT, you're going to ask it to act
+like a particular persona. Now what does that
+mean? It means like you're going
+to ask it to act like a person or some
+inanimate object, or an animal, or some system. There's all kinds of ways
+that you can use this. It's really interesting. But we're going to use
+it in this example to tap into a persona
+that is close to me, but one that I know
+nothing about the domain. One of the really useful things about the persona pattern, as you can imagine, if
+you needed to go phone an expert to get help
+on some problem, you know who you would call but you don't know
+exactly what they would tell you or how they
+would analyze your problem, and so I wanted something in the way I know an expert that I could
+go to in this case, my wife is a speech
+language pathologist. I can have her look at the output and tell
+me how good it was. But I know nothing about being a speech language pathologist
+or how to do their job. I imagined that when
+my son was three, he was not saying
+things properly. I went to ChatGPT and I said act as a speech-language
+pathologist. I'm going to tell you
+what a three-year-old said and you will write
+an assessment for me. The child said,
+"I meed way woy." Now you can imagine
+this might just me being a parent hearing
+it incorrectly. The child's not pronouncing
+things correctly. I don't know the right
+way to even capture this, to even express what's
+being said in words, the right way to do all of this. This is a complex problem
+from my perspective. I don't know how to express
+all of this in language, even to ask the
+question properly. But I know I would go to a speech language pathologist and I would describe
+this to him. I tried to think of something
+that sounded like something my son might have said
+at that point in time. What did ChatGPT say? Well, you notice first off, its output looks like a report. It says subject assessment of a three-year-old speech
+sample, child's speech sample. "I meed way woy" has it in quotation marks and
+it says assessment. Based on the provided
+speech sample, it appears the child
+may be experiencing some phonological and
+articulation errors, which are common in
+children around this age. I don't know what phonological or articulation errors are. I would not have known to ask
+ChatGPT for these things. But based on this pattern that I'm using, this
+persona pattern, I'm tapping into
+this capability for ChatGPT to look at this and know what the right
+things are to tell me. It says there's phonological
+and articulation error. It says the child's utterance
+appears to have errors and consonant production and possibly some difficulty
+with syllable structure. It says consonant errors. It seems that the child is having difficulty with
+the production of some consonant sounds
+specifically the n and l sounds. The child said meed instead of need and woy instead of toy. Then it has in parentheses
+it's assumption. It says assuming the
+intended words were need and toy because you can remember
+my speech sample was, I meed way woy, which my wife told me it wasn't
+a very good example, may not be something that a
+child would actually say. Despite that, it's
+still figuring out if that's really
+what the child said, this is probably what they
+were intending to say and it's figuring that out and then it's telling me they're
+having consonant errors. They're specifically having
+trouble with n and l sounds. Then it goes on to say
+syllable structure. The child's production
+of the word way may indicate some difficulty with the correct syllable structure. It is possible that the
+child intended to say play, but produced way instead, which suggests a substitution of the initial consonant cluster
+pl with a single consonant w. This could be an example of a simplification process
+called cluster reduction. I would not have known
+how to ask ChatGPT to see if there was problem with syllable structure or
+cluster reduction. But I used this pattern
+of saying act as, and I said act as a speech language
+pathologist and now I'm getting rich output that I wouldn't even know
+how to ask for. Then it goes on to say
+because by the way, if you want to do something really unpopular
+as ChatGPT to produce an output that looks
+like it's doing somebody's job and that's always a way to be very popular. I did this with my wife one morning and my wife was not very happy
+because she was trying to get ready to go to
+work and here I am saying ChatGPT is producing things that look like what you produce. One of her things that
+she said to me was, if that was a three-year-old, I'd be telling the parents they probably don't need to worry, children's speech
+is continuing to evolve and I'm paraphrasing
+what she said. She said it much more
+eloquently, but she was like, it's just giving you a way
+overblown analysis of this. I said, yeah, but ChatGPT says
+that too at the end, considering the child's age, it is important to remember that some speech sound errors are developmentally
+appropriate and may resolve on their own with time. Of course, by that time she
+was walking out the door because she wasn't ready to sit around in the morning and listen to me tell her that ChatGPT is doing what a speech
+language pathologist does. Do I think it's going
+to take her job? No. But do I think it has really vast and
+powerful capabilities that we can tap into
+with the right patterns? Absolutely. Do I think
+it gives us the ability to focus on the things that maybe we really want
+to spend our time on? My wife loves working with kids. She loves interacting
+with them and trying to understand
+how to help them. Writing reports,
+maybe I'm not sure. I don't want to speak
+too much for my wife, but I would guess it's maybe not her most favorite
+part of the job. She really loves working with the kids and trying
+to help the kids. You can imagine something
+like this where it allows her to focus more on the things that she really cares about in the real-world. Maybe it can help her to
+give form to her thought around the child's needs
+and write these reports. I hope that you'll see
+that with a little bit of the right structure
+in our prompts, we can create these
+really powerful ways of giving form to our ideas and our thoughts through large language
+models like ChatGPT.
